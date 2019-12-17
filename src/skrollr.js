@@ -231,6 +231,8 @@
         documentElement = document.documentElement;
     }
 
+		body = document.body;
+
 		detectCSSPrefix();
 
 		_instance = this;
